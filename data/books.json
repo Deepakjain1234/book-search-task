@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "launchDate": "1925-04-10",
+    "description": "A novel about the American dream and the roaring twenties.",
+    "image": "https://picsum.photos/id/1025/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "launchDate": "1949-06-08",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "image": "https://picsum.photos/id/1062/200/300",
+    "category": "Science"
+  },
+  {
+    "id": "3",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084",
+    "launchDate": "1960-07-11",
+    "description": "A powerful tale of racial injustice in the Deep South.",
+    "image": "https://picsum.photos/id/1041/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9781503290563",
+    "launchDate": "1813-01-28",
+    "description": "A classic romantic novel exploring manners and marriage in early 19th-century England.",
+    "image": "https://picsum.photos/id/1050/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "5",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227",
+    "launchDate": "1937-09-21",
+    "description": "An epic fantasy adventure of Bilbo Baggins in Middle-earth.",
+    "image": "https://picsum.photos/id/103/200/300",
+    "category": "Fantasy"
+  },
+  {
+    "id": "6",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "9780060850524",
+    "launchDate": "1932-08-30",
+    "description": "A futuristic society driven by technology and control.",
+    "image": "https://picsum.photos/id/1037/200/300",
+    "category": "Science"
+  },
+  {
+    "id": "7",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "isbn": "9781503280786",
+    "launchDate": "1851-10-18",
+    "description": "A story of obsession and revenge between a sailor and a giant whale.",
+    "image": "https://picsum.photos/id/1074/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "8",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "isbn": "9780142437209",
+    "launchDate": "1847-10-16",
+    "description": "A coming-of-age story filled with emotion, independence, and romance.",
+    "image": "https://picsum.photos/id/1018/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "9",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "launchDate": "1951-07-16",
+    "description": "A rebellious teenager's journey through mental health and society.",
+    "image": "https://picsum.photos/id/1015/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "10",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415",
+    "launchDate": "1988-05-01",
+    "description": "A spiritual journey about chasing your dreams.",
+    "image": "https://picsum.photos/id/1013/200/300",
+    "category": "Non-fiction"
+  },
+  {
+    "id": "11",
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "isbn": "9780064471190",
+    "launchDate": "1956-03-14",
+    "description": "Adventures in a magical realm full of wonder and war.",
+    "image": "https://picsum.photos/id/1012/200/300",
+    "category": "Fantasy"
+  },
+  {
+    "id": "12",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "isbn": "9780143131847",
+    "launchDate": "1818-01-01",
+    "description": "The classic horror story of a scientist and his monstrous creation.",
+    "image": "https://picsum.photos/id/1040/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "13",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "isbn": "9780141439846",
+    "launchDate": "1897-05-26",
+    "description": "The legendary vampire tale that defined a genre.",
+    "image": "https://picsum.photos/id/1022/200/300",
+    "category": "Horror"
+  },
+  {
+    "id": "14",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780544003415",
+    "launchDate": "1954-07-29",
+    "description": "A quest to destroy the One Ring and defeat evil in Middle-earth.",
+    "image": "https://picsum.photos/id/1010/200/300",
+    "category": "Fantasy"
+  },
+  {
+    "id": "15",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "isbn": "9780141439570",
+    "launchDate": "1890-06-20",
+    "description": "A man's pursuit of eternal youth through dark means.",
+    "image": "https://picsum.photos/id/1019/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "16",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "9780451526342",
+    "launchDate": "1945-08-17",
+    "description": "A political allegory told through farm animals' rebellion.",
+    "image": "https://picsum.photos/id/1005/200/300",
+    "category": "Non-fiction"
+  },
+  {
+    "id": "17",
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "isbn": "9780451419439",
+    "launchDate": "1862-04-03",
+    "description": "A tale of redemption and justice in 19th-century France.",
+    "image": "https://picsum.photos/id/1011/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "18",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "isbn": "9780307387899",
+    "launchDate": "2006-09-26",
+    "description": "A bleak journey of a father and son through a post-apocalyptic world.",
+    "image": "https://picsum.photos/id/1023/200/300",
+    "category": "Fiction"
+  },
+  {
+    "id": "19",
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "isbn": "9780553208849",
+    "launchDate": "1922-01-01",
+    "description": "A philosophical quest for enlightenment.",
+    "image": "https://picsum.photos/id/1020/200/300",
+    "category": "Non-fiction"
+  },
+  {
+    "id": "20",
+    "title": "The Fish",
+    "author": "Deepak Jain",
+    "isbn": "12323",
+    "launchDate": "2000-03-12",
+    "description": "A symbolic tale of self-discovery.",
+    "image": "https://picsum.photos/id/1009/200/300",
+    "category": "Fiction"
+  }
+]
